@@ -1,5 +1,5 @@
 # Welcome to my blog
 
-I'm Argeio Santos and this is day 1 on my journey to learn GitHub
+Hi there, may name is Argelio Santos and in this blog I will be documenting my journey learning GitHub for saving and sharing code.
 
-Not much yet to say, other than this is exciting!!
+Exciting!! As Day 1 starts I hope the blog content continues to grow and one day I can look back to this and see a massive learning trail, and hopefully share it with anyone who is interested in learning from it as well!!
