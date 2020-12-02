@@ -1,9 +1,9 @@
-theme: minima
-title: Professional Development Daily Updates
+theme: cayman
+title: Argelio's Blog
 author: Argelio Santos
 email: Argelio.Santos@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  See the step by step progress in learning to code and collaborate using GitHub
+  Join me in this journey as we learn how to work, code and collaborate using GitHub
 
 # social links
 twitter_username: 6elo # DO NOT include the @ character, or else the build will fail!
